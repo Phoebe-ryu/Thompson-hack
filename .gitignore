@@ -1,0 +1,7 @@
+cc
+cc_2
+a.out
+*.exe
+*.out
+*.s
+*.o
